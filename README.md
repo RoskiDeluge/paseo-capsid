@@ -39,7 +39,7 @@ $ cargo run -- ./pods/demo
 
 ## 🗂️ Pod manifest (paseo.json)
 
-The full spec lives in [`/docs/paseo_manifest_spec.md`](./docs/paseo_manifest_spec.md) (mirrored in the project canvas).\
+The full spec lives in [`/docs/paseo_manifest_spec.md`](./docs/paseo_manifest_spec.md)\
 **Minimum viable:**
 
 ```json
