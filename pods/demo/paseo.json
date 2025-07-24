@@ -1,0 +1,10 @@
+{
+  "entity":  "Midtown Community Garden",
+  "memory":  "./state.json",
+  "schema":  "paseo://core/v0",
+
+  "description": "Shared scratchpad for garden tasks & chat",
+  "version": "0.1.0",
+  "labels": ["community", "garden"],
+  "hooks": { "onMessage": "respond" }
+}
