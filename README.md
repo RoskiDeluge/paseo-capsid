@@ -66,10 +66,3 @@ The full spec lives in [`/docs/paseo_manifest_spec.md`](./docs/paseo_manifest_sp
 ## 🤝 Contributing
 
 PRs & issues welcome! Start with `cargo clippy --all-targets --all-features` and follow `rustfmt`.  Open a discussion thread for bigger features.
-
----
-
-## 📜 Licence
-
-MIT (see LICENCE file).
-
